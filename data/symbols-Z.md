@@ -1,0 +1,20 @@
+# NSE Equity Symbols Starting with Z
+
+Symbols listed in yfinance format with `.NS` suffix.
+
+- ZAGGLE.NS
+- ZEEL.NS
+- ZEEMEDIA.NS
+- ZENITHEXPO.NS
+- ZENITHSTL.NS
+- ZENSARTECH.NS
+- ZENTEC.NS
+- ZFCVINDIA.NS
+- ZFSTEERING.NS
+- ZODIACLOTH.NS
+- ZOTA.NS
+- ZSARACOM.NS
+- ZUARI.NS
+- ZUARIIND.NS
+- ZYDUSLIFE.NS
+- ZYDUSWELL.NS

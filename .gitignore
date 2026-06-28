@@ -5,3 +5,6 @@
 /pycache__/*
 /pyvenv.cfg
 .lock
+/share/*
+/reports/*
+*.pyc
