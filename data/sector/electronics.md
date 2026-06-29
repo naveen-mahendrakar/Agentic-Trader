@@ -1,0 +1,28 @@
+# Electronics
+
+Symbols listed in yfinance format with `.NS` suffix.
+
+- AVALON.NS
+- BEL.NS
+- BPL.NS
+- CENTUM.NS
+- CNL.NS
+- DIXON.NS
+- EBGNG.NS
+- ELECTCAST.NS
+- ELECTHERM.NS
+- ELIN.NS
+- EMIL.NS
+- HCL-INSYS.NS
+- IKIO.NS
+- KAYNES.NS
+- LGEINDIA.NS
+- MICEL.NS
+- NAZARA.NS
+- NETWEB.NS
+- OPTIEMUS.NS
+- PGEL.NS
+- RPTECH.NS
+- SALZERELEC.NS
+- SYRMA.NS
+- TVSELECT.NS

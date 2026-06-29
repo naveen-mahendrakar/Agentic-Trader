@@ -1,0 +1,21 @@
+# Telecom
+
+Symbols listed in yfinance format with `.NS` suffix.
+
+- BHARTIARTL.NS
+- BHARTIHEXA.NS
+- GTL.NS
+- IDEA.NS
+- INDUSTOWER.NS
+- MTNL.NS
+- ONMOBILE.NS
+- PARACABLES.NS
+- PAYTM.NS
+- PNC.NS
+- RAILTEL.NS
+- ROUTE.NS
+- SURANAT&P.NS
+- SUYOG.NS
+- TATACOMM.NS
+- TNTELE.NS
+- TTML.NS

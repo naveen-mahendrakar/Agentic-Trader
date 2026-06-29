@@ -1,0 +1,16 @@
+# Edtech
+
+Symbols listed in yfinance format with `.NS` suffix.
+
+- COMPUSOFT.NS
+- CPEDU.NS
+- CRIZAC.NS
+- GLOBAL.NS
+- JARO.NS
+- KEEPLEARN.NS
+- LCCINFOTEC.NS
+- NIITLTD.NS
+- NIITMTS.NS
+- PWL.NS
+- TREEHOUSE.NS
+- VERANDA.NS

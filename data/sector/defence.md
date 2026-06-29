@@ -1,0 +1,19 @@
+# Defence
+
+Symbols listed in yfinance format with `.NS` suffix.
+
+- AEQUS.NS
+- APOLLO.NS
+- BDL.NS
+- BEL.NS
+- COCHINSHIP.NS
+- CYIENTDLM.NS
+- DATAPATTNS.NS
+- DCXINDIA.NS
+- GRSE.NS
+- HAL.NS
+- MAZDOCK.NS
+- PARAS.NS
+- ROSSTECH.NS
+- UNIMECH.NS
+- ZENTEC.NS

@@ -4,9 +4,9 @@
             "command": "uvx",
             "args": ["mcp-yahoo-finance"]
         },
-        "technical-analysis": {
-            "command": "c:/Naveen/Agentic-Trader/Scripts/python.exe",
-            "args": ["src/technical_analysis_server.py"]
+        "analysis": {
+            "command": "c:/Naveen/Agentic-Trader/Scripts/python",
+            "args": ["src/analysis_server.py"]
         }
     }
-} Z      
+}  
